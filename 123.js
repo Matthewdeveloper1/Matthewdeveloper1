@@ -18,4 +18,6 @@ function countSheeps(arrayOfSheep) {
 }
 
 countSheeps(arrayOfSheep)
+
+console.log('skdj')
   
