@@ -19,3 +19,6 @@ function countSheeps(arrayOfSheep) {
 
 countSheeps(arrayOfSheep)
   
+arrayOfSheep.forEach((item, index) => {
+  console.log(`${item}: ${index}`)
+})
