@@ -16,9 +16,3 @@ function countSheeps(arrayOfSheep) {
   })
   console.log(trueValues)
 }
-
-countSheeps(arrayOfSheep)
-  
-arrayOfSheep.forEach((item, index) => {
-  console.log(`${item}: ${index}`)
-})
