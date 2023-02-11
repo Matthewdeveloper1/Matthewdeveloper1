@@ -16,6 +16,3 @@ function countSheeps(arrayOfSheep) {
   })
   console.log(trueValues)
 }
-
-countSheeps(arrayOfSheep)
-  
