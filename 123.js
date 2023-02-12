@@ -17,10 +17,3 @@ function countSheeps(arrayOfSheep) {
   console.log(trueValues)
 }
 
-countSheeps(arrayOfSheep)
-
-console.log('skdj')
- a = 0 
- b = 0  
-
- console.log('b')
