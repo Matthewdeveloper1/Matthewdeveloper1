@@ -10,12 +10,9 @@
 ![](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue.js&)
 ![](https://img.shields.io/badge/-VueX-black?style=for-the-badge&logo=vue.js&)
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&)
-![](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&)
-![](https://img.shields.io/badge/-Wordpress-black?style=for-the-badge&logo=wordpress&)
 ![](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira&logoColor=3080f7)
 ![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&)
 ![](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go&)
 ![](https://img.shields.io/badge/-Npm-black?style=for-the-badge&logo=npm&)
-![](https://img.shields.io/badge/-Three-black?style=for-the-badge&logo=three.js&)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthewdeveloper1&title_color=1cbbff&bg_color=0d1117&text_color=1cbbff&hide_border=true&langs_count=10&layout=compact)
