@@ -1,7 +1,4 @@
 ## ソーシャル
-[![](https://img.shields.io/badge/-discord-black?style=for-the-badge&logo=discord&)](https://discordapp.com/users/593442349686718477)
-[![](https://img.shields.io/badge/-facebook-black?style=for-the-badge&logo=facebook&)](https://www.facebook.com/mark.ushida.35)
-[![](https://img.shields.io/badge/-stackoverflow-black?style=for-the-badge&logo=stackoverflow&)](https://stackoverflow.com/users/12933483/10k20)
 
 ## テクノロジー
 ![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&)
