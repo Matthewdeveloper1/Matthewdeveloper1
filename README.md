@@ -1,5 +1,3 @@
-## ソーシャル
-
 ## テクノロジー
 ![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&)
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&)
